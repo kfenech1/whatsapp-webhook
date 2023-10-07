@@ -20,7 +20,7 @@ This project is meant to be used as whatsapp cloud api webhook receiver. This pr
 
 ## Installation
 
-### Prerequisites
+#### Prerequisites
 
 - Whatsapp cloud API permanent token
     - To generate permanent token, you can follow this popular stackoverflow answer - https://stackoverflow.com/a/74253066
