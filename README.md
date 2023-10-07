@@ -1,4 +1,4 @@
-# Whatsapp Webhook
+## Whatsapp Webhook
 
 ## Shape project future with Your Feedback
 Help us improve our open-source "WhatsApp Webhook" project! Share your thoughts and suggestions in our community discussion: [Click here](https://github.com/whatsapp-webhook/whatsapp-webhook/discussions/2)
