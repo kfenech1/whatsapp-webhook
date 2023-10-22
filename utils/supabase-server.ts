@@ -8,6 +8,6 @@ export const createClient = () =>
         headers,
         cookies,
         auth: {
-            persistSession: false,
+            persistSession: false
         }
     })
