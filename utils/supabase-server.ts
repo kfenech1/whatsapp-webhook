@@ -7,7 +7,6 @@ export const createClient = () =>
     createServerComponentSupabaseClient<Database>({
         headers,
         cookies,
-        auth: {
-            persistSession: false
-        }
-    })
+    }, { auth: {
+        persistSession: false,
+      }})
